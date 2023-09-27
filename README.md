@@ -8,7 +8,7 @@
 <div align="center">
 
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](/Oauth-protocol/LICENSE)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
 </div>
 
@@ -38,7 +38,7 @@ The third and final part of the project describes the latest draft of version 2.
 
 ## 👁️ View Project <a name = "view_project"></a>
 
-- [Project's PDF](/Oauth-protocol/OAuth.pdf) - Project's PDF in repository
+- [Project's PDF](/OAuth.pdf) - Project's PDF in repository
 
 
 ## ⛏️ Built Using <a name = "built_using"></a>
