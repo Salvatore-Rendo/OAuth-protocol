@@ -22,6 +22,7 @@
 
 - [📝 Table of Contents](#-table-of-contents)
 - [🧐 About ](#-about-)
+- [👁️ View Project ](#️-view-project-)
 - [⛏️ Built Using ](#️-built-using-)
 - [✍️ Authors ](#️-authors-)
 
@@ -34,6 +35,11 @@ Starting with an analysis of OAuth 1.0, including its protocol entities, flow, m
 The second part of the presentation examines OAuth 2.0, focusing on its simplified workflow, new protocol roles and entities and the new types of authorization grants. Additionally, it highlights the differences and changes from the older version, providing insights into security aspects for a secure protocol implementation.
 
 The third and final part of the project describes the latest draft of version 2.1 (draft-ietf-oauth-v2-1-09 at the time of creation), exploring the six major changes from version 2.0 and analyzing them from a security standpoint.
+
+## 👁️ View Project <a name = "view_project"></a>
+
+- [Project's PDF](/Oauth-protocol/OAuth.pdf) - Project's PDF in repository
+
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 
